@@ -2,6 +2,8 @@
 
 Sample reinforcement learning tutorial notebooks
 
+## If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
+
 ### 1. Cross Entropy
 
 Check out the corresponding medium blog post [https://towardsdatascience.com/reinforcement-learning-tutorial-with-open-ai-gym-9b11f4e3c204](https://towardsdatascience.com/reinforcement-learning-tutorial-with-open-ai-gym-9b11f4e3c204).
