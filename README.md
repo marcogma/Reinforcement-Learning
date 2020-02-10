@@ -34,6 +34,16 @@ Check out the corresponding medium blog post [https://towardsdatascience.com/dee
 
 `jupyter notebook`
 
+## References
+
+1. https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
+
+2. https://people.smp.uq.edu.au/DirkKroese/ps/aortut.pdf
+
+3. https://arxiv.org/pdf/1509.02971
+
+4. https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12389/11847
+
 ## Citing
 
 ```
