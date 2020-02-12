@@ -1,6 +1,10 @@
 # Reinforcement-Learning-Tutorial
 
-Sample reinforcement learning tutorial notebooks
+This repository contains:
+
+1. Unofficial code for paper "The Cross Entropy Method for Fast Policy Search"
+2. Unofficial code for paper "Continuous control with deep reinforcement learning"
+3. Unofficial code for paper "Deep Reinforcement Learning with Double Q-learning"
 
 ## If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
 
